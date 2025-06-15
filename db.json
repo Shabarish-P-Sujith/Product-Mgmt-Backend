@@ -1,0 +1,12 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "Lenovo Thinkpad",
+      "description": "This is the best laptop ever",
+      "price": 1500,
+      "category": "Laptop"
+    }
+  ],
+  "users": []
+}

@@ -1,0 +1,16 @@
+{
+  "name": "product-management-backend",
+  "version": "1.0.0",
+  "description": "Backend for Product Management System",
+  "main": "db.json",
+  "scripts": {
+    "start": "json-server --watch db.json --port 3001"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "json-server": "^0.17.4"
+  }
+}
